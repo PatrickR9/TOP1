@@ -1,0 +1,7 @@
+<div class = "d_property_components accordion_block">
+    <div id="dc_hx" class="d_property_component" ondragstart="aDragCopy(this, 'd_property_components');"   ondragend="aReleaseNew()" draggable = "true" data-form = "d_property_component_form" data-label = "Titel"><span class = "d_property_text_icon">T</span><label>Titel</label></div>
+    <div id="dc_text" class="d_property_component" ondragstart="aDragCopy(this, 'd_property_components');" ondragend="aReleaseNew()" draggable = "true" data-form = "d_property_component_form" data-label = "Text"><span class = "fa fa-align-left d_property_icon"></span><label>Text</label></div>
+    <div id="dc_media" class="d_property_component" ondragstart="aDragCopy(this, 'd_property_components');" ondragend="aReleaseNew()" draggable = "true" data-form = "d_property_component_form" data-label = "Bild"><span class = "fa fa-image d_property_icon"></span><label>Bild</label></div>
+    <div id="dc_table" class="d_property_component" ondragstart="aDragCopy(this, 'd_property_components');" ondragend="aReleaseNew()" draggable = "true" data-form = "d_property_component_form" data-label = "Tabelle"><span class = "fa fa-table d_property_icon"></span><label>Tabelle</label></div>
+    <div id="dc_bibleapi" class="d_property_component" ondragstart="aDragCopy(this, 'd_property_components');" ondragend="aReleaseNew()" draggable = "true" data-form = "d_property_component_form" data-label = "Hauptbibelstelle"><span class = "fa fa-book d_property_icon"></span><label>Hauptbibelstelle</label></div>
+</div>

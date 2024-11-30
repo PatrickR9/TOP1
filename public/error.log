@@ -1,0 +1,122 @@
+[Fri Aug 09 09:19:38.385658 2024] [ssl:warn] [pid 15596:tid 356] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 09:19:38.386663 2024] [ssl:warn] [pid 15596:tid 356] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 09:19:38.506541 2024] [ssl:warn] [pid 15596:tid 356] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 09:19:38.506541 2024] [ssl:warn] [pid 15596:tid 356] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 09:19:39.425674 2024] [ssl:warn] [pid 6400:tid 400] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 09:19:39.428037 2024] [ssl:warn] [pid 6400:tid 400] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 09:19:39.537828 2024] [ssl:warn] [pid 6400:tid 400] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 09:19:39.537828 2024] [ssl:warn] [pid 6400:tid 400] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:29:38.476842 2024] [ssl:warn] [pid 15076:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:29:38.476842 2024] [ssl:warn] [pid 15076:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:29:38.632652 2024] [ssl:warn] [pid 15076:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:29:38.632652 2024] [ssl:warn] [pid 15076:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:29:39.682628 2024] [ssl:warn] [pid 168:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:29:39.682628 2024] [ssl:warn] [pid 168:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:29:39.843471 2024] [ssl:warn] [pid 168:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:29:39.843471 2024] [ssl:warn] [pid 168:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:57:55.796242 2024] [ssl:warn] [pid 13892:tid 396] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:57:55.798019 2024] [ssl:warn] [pid 13892:tid 396] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:57:55.946105 2024] [ssl:warn] [pid 13892:tid 396] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:57:55.946105 2024] [ssl:warn] [pid 13892:tid 396] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:57:57.640928 2024] [ssl:warn] [pid 17248:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:57:57.642837 2024] [ssl:warn] [pid 17248:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 10:57:57.846474 2024] [ssl:warn] [pid 17248:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 10:57:57.848508 2024] [ssl:warn] [pid 17248:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 11:07:53.025710 2024] [ssl:warn] [pid 6960:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 11:07:53.025710 2024] [ssl:warn] [pid 6960:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 11:07:53.138322 2024] [ssl:warn] [pid 6960:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 11:07:53.138322 2024] [ssl:warn] [pid 6960:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 11:07:54.049069 2024] [ssl:warn] [pid 16436:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 11:07:54.050798 2024] [ssl:warn] [pid 16436:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 11:07:54.168418 2024] [ssl:warn] [pid 16436:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 11:07:54.168418 2024] [ssl:warn] [pid 16436:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 11:09:00.933068 2024] [ssl:warn] [pid 6960:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 11:09:00.933068 2024] [ssl:warn] [pid 6960:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 11:09:01.971587 2024] [ssl:warn] [pid 26240:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 11:09:01.973631 2024] [ssl:warn] [pid 26240:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 11:09:02.091486 2024] [ssl:warn] [pid 26240:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 11:09:02.091486 2024] [ssl:warn] [pid 26240:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 16:28:34.811362 2024] [ssl:warn] [pid 6960:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 16:28:34.811362 2024] [ssl:warn] [pid 6960:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 16:28:35.778696 2024] [ssl:warn] [pid 24688:tid 384] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 16:28:35.778696 2024] [ssl:warn] [pid 24688:tid 384] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 09 16:28:35.896266 2024] [ssl:warn] [pid 24688:tid 384] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 09 16:28:35.896266 2024] [ssl:warn] [pid 24688:tid 384] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 12 08:32:31.767949 2024] [ssl:warn] [pid 5268:tid 416] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Aug 12 08:32:31.772107 2024] [ssl:warn] [pid 5268:tid 416] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 12 08:32:32.041874 2024] [ssl:warn] [pid 5268:tid 416] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Aug 12 08:32:32.043888 2024] [ssl:warn] [pid 5268:tid 416] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 12 08:32:34.739508 2024] [ssl:warn] [pid 13348:tid 368] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Aug 12 08:32:34.741523 2024] [ssl:warn] [pid 13348:tid 368] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Aug 12 08:32:35.021820 2024] [ssl:warn] [pid 13348:tid 368] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Aug 12 08:32:35.022330 2024] [ssl:warn] [pid 13348:tid 368] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 13 08:08:32.205864 2024] [ssl:warn] [pid 10432:tid 356] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 13 08:08:32.207872 2024] [ssl:warn] [pid 10432:tid 356] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 13 08:08:32.350881 2024] [ssl:warn] [pid 10432:tid 356] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 13 08:08:32.350881 2024] [ssl:warn] [pid 10432:tid 356] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 13 08:08:33.937760 2024] [ssl:warn] [pid 18404:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 13 08:08:33.939768 2024] [ssl:warn] [pid 18404:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 13 08:08:34.087988 2024] [ssl:warn] [pid 18404:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Aug 13 08:08:34.087988 2024] [ssl:warn] [pid 18404:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 14 08:10:13.560087 2024] [ssl:warn] [pid 13392:tid 368] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Aug 14 08:10:13.562810 2024] [ssl:warn] [pid 13392:tid 368] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 14 08:10:13.871632 2024] [ssl:warn] [pid 13392:tid 368] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Aug 14 08:10:13.871632 2024] [ssl:warn] [pid 13392:tid 368] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 14 08:10:18.600887 2024] [ssl:warn] [pid 7348:tid 428] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Aug 14 08:10:18.603108 2024] [ssl:warn] [pid 7348:tid 428] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Aug 14 08:10:18.930909 2024] [ssl:warn] [pid 7348:tid 428] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Aug 14 08:10:18.933114 2024] [ssl:warn] [pid 7348:tid 428] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 15 07:22:36.288480 2024] [ssl:warn] [pid 17628:tid 352] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Aug 15 07:22:36.290497 2024] [ssl:warn] [pid 17628:tid 352] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 15 07:22:36.619708 2024] [ssl:warn] [pid 17628:tid 352] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Aug 15 07:22:36.620784 2024] [ssl:warn] [pid 17628:tid 352] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 15 07:22:40.003919 2024] [ssl:warn] [pid 3128:tid 440] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Aug 15 07:22:40.008150 2024] [ssl:warn] [pid 3128:tid 440] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 15 07:22:40.289545 2024] [ssl:warn] [pid 3128:tid 440] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Aug 15 07:22:40.289545 2024] [ssl:warn] [pid 3128:tid 440] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 16 07:35:12.012254 2024] [ssl:warn] [pid 20476:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 16 07:35:12.016479 2024] [ssl:warn] [pid 20476:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 16 07:35:12.387733 2024] [ssl:warn] [pid 20476:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 16 07:35:12.387733 2024] [ssl:warn] [pid 20476:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 16 07:35:16.555328 2024] [ssl:warn] [pid 19864:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 16 07:35:16.570235 2024] [ssl:warn] [pid 19864:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 16 07:35:17.017109 2024] [ssl:warn] [pid 19864:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Aug 16 07:35:17.017109 2024] [ssl:warn] [pid 19864:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 09 15:11:31.866597 2024] [ssl:warn] [pid 6772:tid 408] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 09 15:11:31.871220 2024] [ssl:warn] [pid 6772:tid 408] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 09 15:11:32.154804 2024] [ssl:warn] [pid 6772:tid 408] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 09 15:11:32.154804 2024] [ssl:warn] [pid 6772:tid 408] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 09 15:11:35.555806 2024] [ssl:warn] [pid 13148:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 09 15:11:35.561565 2024] [ssl:warn] [pid 13148:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 09 15:11:35.902124 2024] [ssl:warn] [pid 13148:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Sep 09 15:11:35.902124 2024] [ssl:warn] [pid 13148:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 10 10:59:14.010334 2024] [ssl:warn] [pid 10184:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 10 10:59:14.012711 2024] [ssl:warn] [pid 10184:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 10 10:59:14.230922 2024] [ssl:warn] [pid 10184:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 10 10:59:14.230922 2024] [ssl:warn] [pid 10184:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 10 10:59:16.981793 2024] [ssl:warn] [pid 2460:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 10 10:59:16.983776 2024] [ssl:warn] [pid 2460:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Sep 10 10:59:17.245857 2024] [ssl:warn] [pid 2460:tid 392] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Sep 10 10:59:17.245857 2024] [ssl:warn] [pid 2460:tid 392] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 08:28:22.842765 2024] [ssl:warn] [pid 9552:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 08:28:22.869827 2024] [ssl:warn] [pid 9552:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 08:28:23.147723 2024] [ssl:warn] [pid 9552:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 08:28:23.147723 2024] [ssl:warn] [pid 9552:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 08:28:26.421847 2024] [ssl:warn] [pid 13720:tid 220] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 08:28:26.424369 2024] [ssl:warn] [pid 13720:tid 220] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 08:28:26.696857 2024] [ssl:warn] [pid 13720:tid 220] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 08:28:26.696857 2024] [ssl:warn] [pid 13720:tid 220] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 09:07:09.200754 2024] [ssl:warn] [pid 20940:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 09:07:09.202763 2024] [ssl:warn] [pid 20940:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 09:07:09.339520 2024] [ssl:warn] [pid 20940:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 09:07:09.339520 2024] [ssl:warn] [pid 20940:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 09:07:10.571556 2024] [ssl:warn] [pid 10116:tid 416] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 09:07:10.573763 2024] [ssl:warn] [pid 10116:tid 416] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 09:07:10.739068 2024] [ssl:warn] [pid 10116:tid 416] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 09:07:10.739068 2024] [ssl:warn] [pid 10116:tid 416] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 16:37:04.626957 2024] [ssl:warn] [pid 20940:tid 376] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 16:37:04.629471 2024] [ssl:warn] [pid 20940:tid 376] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 16:37:05.537908 2024] [ssl:warn] [pid 22928:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 16:37:05.539614 2024] [ssl:warn] [pid 22928:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Sep 11 16:37:05.664907 2024] [ssl:warn] [pid 22928:tid 372] AH01906: dev.r-io.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Sep 11 16:37:05.664907 2024] [ssl:warn] [pid 22928:tid 372] AH01909: dev.r-io.local:443:0 server certificate does NOT include an ID which matches the server name

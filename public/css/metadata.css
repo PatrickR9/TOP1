@@ -1,0 +1,624 @@
+/* Metadata */
+.meta_element {
+    display: flex;
+    flex-direction: column;
+}
+
+.metadata_flex_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 14px;
+    margin-left: 16px;
+    gap: 16px;
+}
+.flex_cell_25 {
+    flex: 0 0 calc(25% - 16px);
+}
+
+.flex_cell_33 {
+    flex: 0 0 calc(33.33% - 16px);
+}
+
+.flex_cell_50 {
+    flex: 0 0 calc(50% - 16px);
+}
+
+.flex_cell_66 {
+    flex: 0 0 calc(66.66% - 16px);
+}
+
+.flex_cell_75 {
+    flex: 0 0 calc(75% - 16px);
+}
+
+.flex_cell_100 {
+    flex: 0 0 calc(100% - 16px);
+}
+.metadata_flex_wrapper > div {
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #ccc;
+}
+
+.metadata-scrollable {
+    height: calc(100vh - 15px);
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+.metadata-scrollable h2 {
+    margin-top: 40px;
+    padding-left: 30px;
+}
+
+span.data_field_required {
+    color: red;
+}
+/* AT 25.11.2024*/
+.metadata_title
+{
+    width: 100%;
+}
+.flex_cell
+{
+    display: flex;
+    flex-wrap: wrap;    
+}
+.metadata_label
+{
+    width: 100%;
+}
+.meta_field_counter
+{
+    margin-left: auto;
+}
+.meta_img .management_img_small_preview img
+{
+    width: 80px;
+    height: 80px;
+}
+/* END OF AT 25.11.2024*/
+
+/* Image selection */
+.btn_add_image {
+    padding: 5px 10px;
+    border-radius: 50px;
+    background-color: #f0f3f5;
+    width: fit-content;
+    cursor: pointer;
+}
+
+.selected_medium_badge {
+    display: flex;
+    width: fit-content;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: #00a3e0;
+    color: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+}
+/* Content preview */
+.content_preview_textarea {
+    width: 100%;
+    resize: none;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.content_preview_textarea:focus {
+    outline: none;
+    border-color: #00a3e0;
+}
+
+.char_count {
+    text-align: right;
+    margin-top: 4px;
+}
+
+.max_char_number {
+    color: #00a3e0;
+}
+
+/* Autocomplete/Searchable dropdown list */
+.filtered-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    max-height: 200px;
+    overflow-y: auto;
+    list-style-type: none;
+    padding-left: 0;
+    z-index: 10;
+}
+
+.filtered-list li:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+.no_search_results {
+    color: #6B7280;
+}
+
+/* Mediatypes */
+.mediatypes_badge_row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 10px;
+}
+
+.mt_badge {
+    padding: 5px 10px;
+    border-radius: 50px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+
+.selectedMediaType.mt_badge {
+    background-color: #00a3e0;
+    border: 1px solid #00a3e0;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.selectedMediaType.mt_badge svg {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.mt_badge svg {
+    display: none;
+}
+
+/* Autocomplete */
+.ac_breadcrumb {
+    color: #00a3e0;
+}
+
+.ac_breadcrumb_item {
+    display: inline;
+}
+
+.ac_breadcrumb_item:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.ac_breadcrumb_item_no_hover {
+    display: inline;
+}
+
+.ac_breadcrumb_separator {
+    color: #00a3e0;
+}
+
+.autocomplete_container_row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.autocomplete_container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 10px;
+    gap: 10px;
+    width: 300px;
+}
+
+.autocomplete_dropdown {
+    flex: 1;
+    min-width: 245px;
+    position: relative;
+    flex-wrap: nowrap;
+}
+
+.ac_badges_container {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.ac_badge {
+    display: inline-flex;
+    align-items: center;
+    background-color: #00a3e0;
+    color: #fff;
+    border-radius: 25px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.ac_badge_remove {
+    width: 12px;
+    height: 12px;
+    margin-left: 8px;
+}
+
+.ac_search_input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.search_icon_input {
+    padding: 10px 0px 10px 35px !important;
+}
+
+label.search_icon_label {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+/* Deep search */
+.ac_icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23000' d='M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+
+.search_icon_label.deep_search_icon .ac_icon {
+    cursor: pointer;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath fill='%23000' d='M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.2 288 416 288c17.7 0 32-14.3 32-32s-14.3-32-32-32l-306.7 0L214.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+
+/* Content creation */
+.content_creation_outer_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: calc(100% - 40px);
+    height: calc(100vh - (4rem + 58px));
+    margin: auto;
+}
+
+.content_creation_div {
+    margin-top: 180px;
+    width: 800px;
+}
+
+.input_group_content_title {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
+.content-entry-label {
+    margin-bottom: 0.5rem;
+}
+
+input.entry-title,
+select.entry-type {
+    width: 100%;
+    padding: 10px !important;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box
+}
+
+.btn_container_content {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.btn_container_content button {
+    padding: 10px 15px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+
+.cancel_btn_content {
+    background-color: #f3f4f6;
+}
+
+.create_btn_content {
+    background-color: #00a3e0;
+    color: #fff;
+}
+
+.cancel_btn_content:hover {
+    background-color: #BBC1CC;
+}
+
+.create_btn_content:hover {
+    background-color: #0082B3;
+    color: #fff;
+}
+
+/* Content Duration */
+.content_duration_container {
+    display: flex;
+    gap: 40px;
+}
+
+.content_duration_column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.content_duration_cell {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.duartion_time_input {
+    width: 75px !important;
+    border: 1px solid #ccc;
+    padding: 2px;
+}
+
+/* Category dropdown (topics and target-groups) */
+.category_dropdown {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: white;
+    position: relative;
+}
+
+.main_category_dd {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px 10px 15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.main_category_dd.main_category_dd_opened {
+    margin-bottom: unset;
+}
+
+.main_category_dd:hover {
+    background-color: #f0f0f0;
+}
+
+.main_category_dd-text {
+    flex-grow: 1;
+}
+
+.main_category_icon_chevron {
+    transform: rotate(90deg);
+    transition: transform 0.3s ease;
+}
+
+.category_chevron_rotated {
+    transform: rotate(270deg);
+}
+
+.category_sub_entries {
+    display: none;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.category_sub_entry {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+}
+
+.category_sub_entry input {
+    margin-right: 10px;
+}
+
+.category_selected_list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.category_selected_item {
+    display: flex;
+    width: fit-content;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: #00a3e0;
+    color: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.category_selected_item span {
+    flex-grow: 1;
+}
+
+.category_selected_item_remove {
+    margin-left: 10px;
+}
+
+/* main bible passage */
+.bible_main_container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bible_container_row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.bible_badge_container {
+    display: flex;
+    gap: 10px;
+}
+
+.bible_badge {
+    padding: 10px 15px;
+    border-radius: 50px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+}
+
+.bible_badge.selected {
+    background-color: #00a3e0;
+    border-color: #00a3e0;
+    color: white;
+}
+
+.bible_input_container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    max-width: 100%;
+}
+
+.bible_book_container {
+    flex: 1;
+    min-width: 120px;
+    max-width: 200px;
+    position: relative;
+    flex-wrap: nowrap;
+}
+
+.bible_chapter_container,
+.bible_verse_container {
+    flex: 0 1 80px;
+    max-width: 80px;
+    position: relative;
+    flex-wrap: nowrap;
+}
+
+input.bible_book {
+    width: 100%;
+}
+
+input.bible_chapter,
+input.bible_verse {
+    width: 100%
+}
+
+.separator_bible {
+    margin: 0 5px;
+}
+
+.bible_input_container input {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.bible_result_container {
+    background-color: #f0f3f5;
+    min-width: 450px;
+    padding: 10px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.bible_result_header {
+    display: flex;
+    align-items: center;
+}
+
+.bible_result_title {
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.bible_result_container_badge {
+    border: 1px solid #a7a7a7;
+    border-radius: 8px;
+    padding: 4px 8px;
+    font-size: 12px;
+}
+
+.bible_result_content {
+    margin-top: 10px;
+}
+
+.bible_result_text {
+    display: flex;
+    align-items: center;
+}
+
+.bible_result_border {
+    padding-left: 10px;
+    border-left: solid 5px #45464a;
+}
+
+.bible_result_remove_icon {
+    position: absolute;
+    border: 1px solid #45464a;
+    border-radius: 50%;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    cursor: pointer;
+}
+
+.bible_btn_search {
+    padding: 10px 15px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+    background-color: #00a3e0;
+    color: #fff;
+}
+
+.bible_btn_search:hover {
+    background-color: #0082B3;
+    color: #fff;
+}
+
+/* Confrimation checkbox */
+.confirmation_checkbox_wrapper {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 10px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    width:fit-content;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.confirmation_checkbox_wrapper input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.confirmation_checkbox_wrapper.checked_confirmation {
+    background-color: #d2f2e1;
+}
