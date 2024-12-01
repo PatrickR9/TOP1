@@ -114,15 +114,6 @@ span.data_field_required {
     border-color: #00a3e0;
 }
 
-.char_count {
-    text-align: right;
-    margin-top: 4px;
-}
-
-.max_char_number {
-    color: #00a3e0;
-}
-
 /* Autocomplete/Searchable dropdown list */
 .filtered-list {
     position: absolute;

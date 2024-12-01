@@ -22,6 +22,7 @@
         <link href="/css/management.css" rel="stylesheet" />
         <link href="/css/mediapool.css" rel="stylesheet" />
         <link href="/css/metadata.css" rel="stylesheet" />
+        <link href="/css/content_settings.css" rel="stylesheet" />
         <script src="{{ asset('js/tinymce/tinymce.min.js') }}" referrerpolicy="origin"></script>
         <script src = "/js/site_editor.js"></script>
         <script src = "/js/d_editor.js"></script>

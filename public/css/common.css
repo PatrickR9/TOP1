@@ -158,3 +158,55 @@ h6
 {
     flex-wrap: wrap;
 }
+
+/* char count */
+.char_count p {
+    text-align: right;
+}
+
+.char_count .max_char_number {
+    color: #00a3e0;
+}
+
+/* tooltip */
+.tooltip-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip-wrapper .icon {
+    cursor: pointer;
+}
+
+.tooltip-wrapper .tooltip {
+    visibility: hidden;
+    background-color: #00a3e0;
+    color: #fff;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 4px;
+    position: absolute;
+    bottom: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.3s;
+    z-index: 1000;
+}
+
+.tooltip-wrapper:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip-wrapper .tooltip::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 7px;
+    border-style: solid;
+    border-color: #00a3e0 transparent transparent transparent;
+}
